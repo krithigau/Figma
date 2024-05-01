@@ -102,11 +102,8 @@ Final page-iPhone 14 & 15 Pro Max -3 CODE:
 
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-29 190325.png>)
 
-![alt text](<Screenshot 2024-04-29 190344.png>)
-
-![alt text](<Screenshot 2024-04-29 190401.png>)
+![alt text](<Screenshot 2024-04-29 191825.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
