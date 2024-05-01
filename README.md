@@ -99,6 +99,7 @@ Final page-iPhone 14 & 15 Pro Max -3 CODE:
   <img class="Image13" style="width: 57px; height: 57px; left: 261px; top: 661px; position: absolute" src="https://via.placeholder.com/57x57" />
   <img class="Image8" style="width: 63px; height: 63px; left: 175px; top: 832px; position: absolute" src="https://via.placeholder.com/63x63" />
 </div>
+
 ```
 ## OUTPUT:
 ![alt text](<Screenshot 2024-04-29 190325.png>)
